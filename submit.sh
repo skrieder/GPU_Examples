@@ -2,7 +2,7 @@
 #
 #$ -cwd
 #$ -j y
-#$ -P admin_project
+#$ -P cs451_s14_project
 #$ -m n
 #$ -pe mpich 1
 #$ -S /bin/bash
